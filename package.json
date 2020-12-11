@@ -1,0 +1,20 @@
+{
+  "name": "jest-uint-testing",
+  "version": "1.0.0",
+  "description": "unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "PugaDen",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.19",
+    "jest": "^26.6.3"
+  }
+}
